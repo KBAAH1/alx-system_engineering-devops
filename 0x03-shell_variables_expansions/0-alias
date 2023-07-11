@@ -1,2 +1,2 @@
 #!/bin/bash
-alias myalias='echo "Hello, Alias!"'
+echo "alias myalias='echo \"Hello, Alias!\"'" >> ~/.bashrc
